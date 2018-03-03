@@ -1,52 +1,1128 @@
-﻿ http://mlsh.co:2086/get.php?username=james1&password=james1&type=m3u
+﻿ #EXTINF:-1,AL: RTK SAT
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/1345.ts
+#EXTINF:-1,AL: RTK 1
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/1042.ts
+#EXTINF:-1,AL: RTK 1 HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/1304.ts
+#EXTINF:-1,AL: RTK 2
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/1043.ts
+#EXTINF:-1,AL: RTK 3
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/1044.ts
+#EXTINF:-1,AL: RTK 4
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/1045.ts
+#EXTINF:-1,AL: RTK Serial
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/12355.ts
+#EXTINF:-1,AL: RTV 21 Toksor
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/1319.ts
+#EXTINF:-1,AL: RTV 21 HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/1052.ts
+#EXTINF:-1,AL: KTV HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/979.ts
+#EXTINF:-1,AL: KTV Toksor
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/1308.ts
+#EXTINF:-1,AL: Klan Kosova Tokesor
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/2706.ts
+#EXTINF:-1,AL: KLAN Kosova HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/1307.ts
+#EXTINF:-1,AL: TV Dukagjini HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/1873.ts
+#EXTINF:-1,AL: Tribuna Channel
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/1572.ts
+#EXTINF:-1,AL: TOP Channel HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/1310.ts
+#EXTINF:-1,AL: TOP Channel
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/1161.ts
+#EXTINF:-1,AL: KLAN HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/976.ts
+#EXTINF:-1,AL: KLAN TV
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/3471.ts
+#EXTINF:-1,AL: KLAN PLUS HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/1475.ts
+#EXTINF:-1,AL: Vizion Plus HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/1192.ts
+#EXTINF:-1,AL: Vizion Plus Toksor
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/1301.ts
+#EXTINF:-1,AL: RTSH 1 HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/3451.ts
+#EXTINF:-1,AL: RTSH 2 HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/10912.ts
+#EXTINF:-1,AL: RTSH 3 HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/11182.ts
+#EXTINF:-1,AL: RTSH 24
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/10975.ts
+#EXTINF:-1,AL: RTSH SHQIP
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/9535.ts
+#EXTINF:-1,AL: RTSH KUVEND
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/9308.ts
+#EXTINF:-1,AL: RTSH FILM
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/10809.ts
+#EXTINF:-1,AL: RTSH MUZIKE
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/12483.ts
+#EXTINF:-1,AL: ALSAT M  HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/2330.ts
+#EXTINF:-1,AL: Alsat M (backup)
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/3022.ts
+#EXTINF:-1,AL: Alsat M (2) backup
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/11346.ts
+#EXTINF:-1,AL: Channel ONE
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/907.ts
+#EXTINF:-1,AL: Tema TV
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/7280.ts
+#EXTINF:-1,AL: TV KORÇA
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/11183.ts
+#EXTINF:-1,AL: Sot 7 Pogradec
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/12076.ts
+#EXTINF:-1,AL: MRT2
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/4701.ts
+#EXTINF:-1,AL: ERA TV
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/1181.ts
+#EXTINF:-1,AL: RTV 21 NewsBIZ HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/11294.ts
+#EXTINF:-1,AL: RTV 21 Mix HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/2569.ts
+#EXTINF:-1,AL: TV OPINION
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/12084.ts
+#EXTINF:-1,AL: TV Llapi
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/11607.ts
+#EXTINF:-1,AL: Albanian TV USA
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/11424.ts
+#EXTINF:-1,AL: Dibra TV
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/11437.ts
+#EXTINF:-1,AL: TV DIELLI
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/6262.ts
+#EXTINF:-1,AL: TV Koha
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/1182.ts
+#EXTINF:-1,AL: TV Art Tetove
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/6036.ts
+#EXTINF:-1,AL: Uskana Tv
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/6037.ts
+#EXTINF:-1,AL: RTV 21 Maqedonia
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/1312.ts
+#EXTINF:-1,AL: TV Shenja.
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/2545.ts
+#EXTINF:-1,AL: TV 2 Gostivar
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/1177.ts
+#EXTINF:-1,AL: First TV
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/944.ts
+#EXTINF:-1,AL: Vali Tv
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/3628.ts
+#EXTINF:-1,AL: TV Syri Vision
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/1325.ts
+#EXTINF:-1,AL: TV Mitrovica
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/1326.ts
+#EXTINF:-1,AL: JUG TV
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/957.ts
+#EXTINF:-1,AL: Zjarr TV
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/1203.ts
+#EXTINF:-1,AL: Star+ Shkodra
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/3852.ts
+#EXTINF:-1,AL: Drita Tv (test)
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/3854.ts
+#EXTINF:-1,AL: Euro Channel
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/12083.ts
+#EXTINF:-1,AL: Star  TV
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/1860.ts
+#EXTINF:-1,AL:RTV PRESHEVA
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/2485.ts
+#EXTINF:-1,AL:RTV BUJANOVC
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/2486.ts
+#EXTINF:-1,AL: Kombi TV
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/5818.ts
+#EXTINF:-1,AL: TV Shenja
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/2681.ts
+#EXTINF:-1,AL: Dasma TV
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/1324.ts
+#EXTINF:-1,AL: GlobiTV
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/2601.ts
+#EXTINF:-1,AL: TV 1 Channel Shkodër
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/8882.ts
+#EXTINF:-1,**** MUZIKA ****
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/1430.ts
+#EXTINF:-1,AL: KS Çifteli HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/11995.ts
+#EXTINF:-1,AL: KS MUZIK
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/9936.ts
+#EXTINF:-1,AL: BABASTARS TV
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/10830.ts
+#EXTINF:-1,AL: NR1 MUSIC 4K
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/13352.ts
+#EXTINF:-1,AL: MTV Europe
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/10789.ts
+#EXTINF:-1,AL: MTV Music24
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/9591.ts
+#EXTINF:-1,AL: MTV Brand New
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/10792.ts
+#EXTINF:-1,AL: MTV Hits
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/10068.ts
+#EXTINF:-1,AL: MTV Dance
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/9511.ts
+#EXTINF:-1,AL: MTV Rocks
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/9510.ts
+#EXTINF:-1,AL: MTV Base
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/6839.ts
+#EXTINF:-1,AL: MTV Classic
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/11711.ts
+#EXTINF:-1,AL: MTV LIVE HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/10791.ts
+#EXTINF:-1,AL: VH1 Europe
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/11292.ts
+#EXTINF:-1,AL: VH1 Classic
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/7294.ts
+#EXTINF:-1,AL: RAP 2K
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/8219.ts
+#EXTINF:-1,AL: Trace Urban HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/9590.ts
+#EXTINF:-1,AL: My Music
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/2471.ts
+#EXTINF:-1,AL: aRT HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/7092.ts
+#EXTINF:-1,AL: Club TV
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/1339.ts
+#EXTINF:-1,AL: Folk +
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/945.ts
+#EXTINF:-1,AL: Elrodi TV
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/2615.ts
+#EXTINF:-1,AL: Folklorit
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/1320.ts
+#EXTINF:-1,AL: Melodi
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/2612.ts
+#EXTINF:-1,AL: AMOL TV
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/2478.ts
+#EXTINF:-1,AL: TURBO CHANNEL
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/2479.ts
+#EXTINF:-1,AL: RTV 21 Popullore
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/825.ts
+#EXTINF:-1,AL: RTV Sharri
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/1055.ts
+#EXTINF:-1,AL:RTV ILIRIA HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/4663.ts
+#EXTINF:-1,AL: Mezzo
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/11646.ts
+#EXTINF:-1,AL:Syri Blue HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/4659.ts
+#EXTINF:-1,AL: Click TV
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/913.ts
+#EXTINF:-1,AL: CityTV
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/2611.ts
+#EXTINF:-1,AL: IN  TV
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/2592.ts
+#EXTINF:-1,AL: ON TV
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/2477.ts
+#EXTINF:-1,AL: BBF Music
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/880.ts
+#EXTINF:-1,AL: MTV Kosova
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/2544.ts
+#EXTINF:-1,AL: Top Estrada TV HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/2653.ts
+#EXTINF:-1,AL: STV Folk
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/1318.ts
+#EXTINF:-1,AL: RTV 21 Plus HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/2568.ts
+#EXTINF:-1,AL: Tirana TV
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/1315.ts
+#EXTINF:-1,AL:TV Kopliku HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/4669.ts
+#EXTINF:-1,AL: AV TV
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/2624.ts
+#EXTINF:-1,AL: Channel 7
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/7079.ts
+#EXTINF:-1,AL: KS HITS
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/858.ts
+#EXTINF:-1,AL: Golden Hits of Disco Music
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/3890.ts
+#EXTINF:-1,AL: Rtv Zeri i Kosoves
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/8281.ts
+#EXTINF:-1,**** LAJME ****
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/1429.ts
+#EXTINF:-1,AL: Top News
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/4673.ts
+#EXTINF:-1,AL: ARTA NEWS
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/1178.ts
+#EXTINF:-1,AL: Rrokum TV
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/1041.ts
+#EXTINF:-1,AL: NEWS 24 HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/3452.ts
+#EXTINF:-1,AL: Kanali 7 News
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/961.ts
+#EXTINF:-1,AL: News 24
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/1000.ts
+#EXTINF:-1,AL: ABC News.
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/4758.ts
+#EXTINF:-1,AL: ABC News
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/843.ts
+#EXTINF:-1,AL: ORA News HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/1001.ts
+#EXTINF:-1,AL: Fax News
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/9533.ts
+#EXTINF:-1,AL: Report TV
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/1461.ts
+#EXTINF:-1,AL: Scan TV
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/5822.ts
+#EXTINF:-1,***Kanale për Fëmijë***
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/2582.ts
+#EXTINF:-1,AL: Bang Bang
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/876.ts
+#EXTINF:-1,AL: ÇUFO
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/916.ts
+#EXTINF:-1,AL: Tring Tring
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/1175.ts
+#EXTINF:-1,AL: Tring Kids
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/4259.ts
+#EXTINF:-1,AL: Sofia HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/2487.ts
+#EXTINF:-1,AL: Junior TV
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/958.ts
+#EXTINF:-1,AL: Tip TV
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/1160.ts
+#EXTINF:-1,AL: KS FËMIJË
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/13331.ts
+#EXTINF:-1,AL: KS FËMIJË (English)
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/13089.ts
+#EXTINF:-1,AL: Ksport Përralla
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/12494.ts
+#EXTINF:-1,AL: Bubrreci TV (Femije Shqip)
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/8579.ts
+#EXTINF:-1,AL: Passion Femije
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/11147.ts
+#EXTINF:-1,AL: BARBIE TV ( SHQIP )
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/10736.ts
+#EXTINF:-1,AL: ShqipTV MIMI
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/11121.ts
+#EXTINF:-1,AL: ShqipTV Tom & Jerry
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/10823.ts
+#EXTINF:-1,AL: Cartoon Network
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/10050.ts
+#EXTINF:-1,AL: Boomerang
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/10049.ts
+#EXTINF:-1,AL: Disney Channel
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/8134.ts
+#EXTINF:-1,AL: Disney Channel HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/11123.ts
+#EXTINF:-1,AL: Disney XD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/10089.ts
+#EXTINF:-1,AL: Disney Junior
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/10763.ts
+#EXTINF:-1,AL: Disney Cinemagic HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/11414.ts
+#EXTINF:-1,AL: Nickelodeon
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/10069.ts
+#EXTINF:-1,AL: Nick HD (English Audio)
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/10090.ts
+#EXTINF:-1,AL: Nick Jr.
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/10674.ts
+#EXTINF:-1,AL: Nick Toons
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/12537.ts
+#EXTINF:-1,DE: Das Erste HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/9764.ts
+#EXTINF:-1,DE: Das Erste
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/917.ts
+#EXTINF:-1,DE: ZDF Info HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/1506.ts
+#EXTINF:-1,DE: ZDF HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/1504.ts
+#EXTINF:-1,DE: MDR HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/13242.ts
+#EXTINF:-1,DE: WDR HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/8961.ts
+#EXTINF:-1,DE: 3Sat HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/1849.ts
+#EXTINF:-1,DE: Arte HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/1857.ts
+#EXTINF:-1,DE: NDR HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/1532.ts
+#EXTINF:-1,DE: RTL
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/1048.ts
+#EXTINF:-1,DE: RTL HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/9756.ts
+#EXTINF:-1,DE: RTL Plus
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/9918.ts
+#EXTINF:-1,DE: RTL II
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/1047.ts
+#EXTINF:-1,DE: RTL II HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/9757.ts
+#EXTINF:-1,DE: RTL Living HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/3375.ts
+#EXTINF:-1,DE: RTL Passion
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/3392.ts
+#EXTINF:-1,DE: RTL Crime
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/3393.ts
+#EXTINF:-1,DE: RTL You HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/1846.ts
+#EXTINF:-1,DE: RTL NITRO HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/1850.ts
+#EXTINF:-1,DE: Super RTL HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/1514.ts
+#EXTINF:-1,DE: VOX
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/1193.ts
+#EXTINF:-1,DE: VOX  HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/9787.ts
+#EXTINF:-1,DE: Pro 7
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/1540.ts
+#EXTINF:-1,DE: Pro 7 HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/9771.ts
+#EXTINF:-1,DE: Pro 7 Maxx
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/9772.ts
+#EXTINF:-1,DE: Pro 7 Maxx HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/3378.ts
+#EXTINF:-1,DE: Pro7 Fun HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/3377.ts
+#EXTINF:-1,DE: Kabel 1
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/959.ts
+#EXTINF:-1,DE: Kabel 1  HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/1731.ts
+#EXTINF:-1,DE: Kabel 1 Classic HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/3383.ts
+#EXTINF:-1,DE: Kabel 1 Doku HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/5831.ts
+#EXTINF:-1,DE: Sat 1
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/1056.ts
+#EXTINF:-1,DE: Sat 1  HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/9758.ts
+#EXTINF:-1,DE: Sat 1 Gold
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/3376.ts
+#EXTINF:-1,DE: Sat 1 Emotions HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/8962.ts
+#EXTINF:-1,DE: Sixx
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/1581.ts
+#EXTINF:-1,DE: SIXX HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/1436.ts
+#EXTINF:-1,DE: N-TV
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/9528.ts
+#EXTINF:-1,DE: N-TV HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/9788.ts
+#EXTINF:-1,DE: N24
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/9789.ts
+#EXTINF:-1,DE: N24 HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/4925.ts
+#EXTINF:-1,DE: ORF 1 HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/1002.ts
+#EXTINF:-1,DE: ORF 2 HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/1531.ts
+#EXTINF:-1,DE: ORF 3 HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/1852.ts
+#EXTINF:-1,DE: Tele 5 tv HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/3379.ts
+#EXTINF:-1,---kino---
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/3479.ts
+#EXTINF:-1,DE: ATV HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/11179.ts
+#EXTINF:-1,DE: 13th Street
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/3384.ts
+#EXTINF:-1,DE: 13th Street HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/9760.ts
+#EXTINF:-1,DE: TNT Film HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/1584.ts
+#EXTINF:-1,DE: TNT Serie HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/1515.ts
+#EXTINF:-1,DE: TNT Comedy HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/2587.ts
+#EXTINF:-1,DE: AXN
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/9763.ts
+#EXTINF:-1,DE: AXN HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/1535.ts
+#EXTINF:-1,DE: TLC HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/10053.ts
+#EXTINF:-1,DE: FOX
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/2539.ts
+#EXTINF:-1,DE: FOX HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/9766.ts
+#EXTINF:-1,DE: SYFY
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/3385.ts
+#EXTINF:-1,DE: Sony HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/3374.ts
+#EXTINF:-1,DE: SilverLine Movie
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/9919.ts
+#EXTINF:-1,DE: MTV Germany HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/6288.ts
+#EXTINF:-1,DE: VIVA / COMEDY CENTRAL HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/1084.ts
+#EXTINF:-1,DE: Deluxe Music HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/9724.ts
+#EXTINF:-1,DE: Jukebox
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/9509.ts
+#EXTINF:-1,DE: GO TV
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/11833.ts
+#EXTINF:-1,DE: Krone Hit HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/10962.ts
+#EXTINF:-1,DE: XITE Base
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/11465.ts
+#EXTINF:-1,DE: Universal Channel HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/3386.ts
+#EXTINF:-1,DE: Sky 1 HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/9774.ts
+#EXTINF:-1,DE: Sky 1
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/7331.ts
+#EXTINF:-1,DE: Sky Arts HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/9523.ts
+#EXTINF:-1,DE: Sky Cinema
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/1517.ts
+#EXTINF:-1,DE: Sky Cinema HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/9777.ts
+#EXTINF:-1,DE: Sky Cinema +1
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/1722.ts
+#EXTINF:-1,DE: Sky Cinema +1 HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/9779.ts
+#EXTINF:-1,DE: Sky Cinema +24
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/1917.ts
+#EXTINF:-1,DE: Sky Cinema +24 HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/9780.ts
+#EXTINF:-1,De: Sky Cinema Hits
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/1758.ts
+#EXTINF:-1,DE: Sky Cinema Hits HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/9781.ts
+#EXTINF:-1,DE: Sky Cinema Family HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/9531.ts
+#EXTINF:-1,DE: Sky Cinema Action
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/1522.ts
+#EXTINF:-1,DE: Sky Cinema Action HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/9778.ts
+#EXTINF:-1,DE: Sky Cinema Emotion
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/10942.ts
+#EXTINF:-1,DE: Sky Cinema Emotion HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/1554.ts
+#EXTINF:-1,DE: Sky Cinema Comedy HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/1081.ts
+#EXTINF:-1,DE: Sky Cinema Nostalgie HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/2586.ts
+#EXTINF:-1,DE: Sky Atlantic
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/1062.ts
+#EXTINF:-1,DE: Sky Atlantic HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/9775.ts
+#EXTINF:-1,DE: Sky Atlantic + 1 HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/9776.ts
+#EXTINF:-1,DE: Sky Krimi
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/1086.ts
+#EXTINF:-1,DE: Romance TV HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/1763.ts
+#EXTINF:-1,DE: Kinowelt TV HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/1094.ts
+#EXTINF:-1,DE: Heimat Kanal HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/2585.ts
+#EXTINF:-1,DE: Sonnenklar TV HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/10094.ts
+#EXTINF:-1,DE: KIKA HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/1765.ts
+#EXTINF:-1,DE: Disney Channel HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/2584.ts
+#EXTINF:-1,DE: Disney Cinemagic HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/1082.ts
+#EXTINF:-1,DE: Disney Junior HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/2621.ts
+#EXTINF:-1,DE: Disney XD HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/1779.ts
+#EXTINF:-1,DE: Junior HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/2589.ts
+#EXTINF:-1,DE: Cartoon Network HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/3395.ts
+#EXTINF:-1,DE: Boomerang HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/2588.ts
+#EXTINF:-1,DE: Nickelodeon Schweiz HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/2590.ts
+#EXTINF:-1,DE: Nickelodeon HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/1087.ts
+#EXTINF:-1,DE: Nick HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/8599.ts
+#EXTINF:-1,DE: Nick JR HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/1528.ts
+#EXTINF:-1,DE: Zee one HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/3380.ts
+#EXTINF:-1,---kultur---
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/3480.ts
+#EXTINF:-1,DE: E! HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/3389.ts
+#EXTINF:-1,DE: Spiegel TV Wissen
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/9726.ts
+#EXTINF:-1,DE: Spiegel TV Wissen HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/9790.ts
+#EXTINF:-1,De: Spiegel Geschichte HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/9524.ts
+#EXTINF:-1,DE: National Geographic
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/1089.ts
+#EXTINF:-1,DE: National Geographic HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/9769.ts
+#EXTINF:-1,DE: Welt Der Wunder
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/9728.ts
+#EXTINF:-1,DE: Nat Geo Wild
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/3387.ts
+#EXTINF:-1,DE: Nat Geo Wild  HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/9770.ts
+#EXTINF:-1,DE: Nat Geo People HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/3388.ts
+#EXTINF:-1,DE: Discovery Channel
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/3394.ts
+#EXTINF:-1,DE: Discovery Channel HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/9765.ts
+#EXTINF:-1,DE: History Channel
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/1844.ts
+#EXTINF:-1,DE: History Channel HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/9767.ts
+#EXTINF:-1,DE: Animal Planet
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/1088.ts
+#EXTINF:-1,DE: Animal Planet HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/9762.ts
+#EXTINF:-1,DE: Sky DMAX
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/1579.ts
+#EXTINF:-1,DE: PLANET HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/3381.ts
+#EXTINF:-1,DE: Anixe HD Series
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/3396.ts
+#EXTINF:-1,DE: Anixe HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/9721.ts
+#EXTINF:-1,DE: Dmax HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/9722.ts
+#EXTINF:-1,DE: Phoenix HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/9723.ts
+#EXTINF:-1,DE: Auto Motor Sport HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/11017.ts
+#EXTINF:-1,DE: Motorvision HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/3391.ts
+#EXTINF:-1,DE: Film Club 1 HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/6570.ts
+#EXTINF:-1,DE: Film Club 2 HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/6571.ts
+#EXTINF:-1,DE: Film Club 3 HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/6572.ts
+#EXTINF:-1,DE: Film Club 4 HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/6573.ts
+#EXTINF:-1,DE: Film Club 5 HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/6574.ts
+#EXTINF:-1,DE: Programmübersicht Sky Select
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/6151.ts
+#EXTINF:-1,DE: Sky Select Live 1 (Logan Lucky)
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/11004.ts
+#EXTINF:-1,DE: Sky Select Live 2 (Cars 3-Evolution)
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/11011.ts
+#EXTINF:-1,DE: Sky Select Live 3 (Kingsman-The Golden Circle)
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/11012.ts
+#EXTINF:-1,DE: Sky Select Live 4 (The Circle)
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/11003.ts
+#EXTINF:-1,DE: Sky Select Live 5 (Killer's Bodyguard)
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/11005.ts
+#EXTINF:-1,DE: Sky Select Live 6 (mother!)
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/11014.ts
+#EXTINF:-1,DE: Sky Sport News HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/10811.ts
+#EXTINF:-1,DE: Sky Sport Austria HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/1496.ts
+#EXTINF:-1,DE: Sky Sport 1 HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/1106.ts
+#EXTINF:-1,DE: Sky Sport 2 HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/1495.ts
+#EXTINF:-1,DE: Sky Sport 3 HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/2734.ts
+#EXTINF:-1,DE: Sky Sport 4 HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/2735.ts
+#EXTINF:-1,DE: Sky Sport 5 HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/2736.ts
+#EXTINF:-1,DE: Sky Sport 6 HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/7305.ts
+#EXTINF:-1,DE: Sky Sport 7 HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/7306.ts
+#EXTINF:-1,DE: Sky Sport 8 HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/7307.ts
+#EXTINF:-1,DE: Sky Sport 9 HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/7308.ts
+#EXTINF:-1,DE: Sky Sport 10 HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/7309.ts
+#EXTINF:-1,DE: Sky Sport 1
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/6449.ts
+#EXTINF:-1,DE: Sky Sport 2
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/6451.ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 1 HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/7424.ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 2 HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/7426.ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 3 HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/7428.ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 4 HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/7429.ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 5 HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/7431.ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 6 HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/7432.ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 7 HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/7434.ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 8 HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/7436.ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 9 HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/7437.ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 10 HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/7438.ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 1 SD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/7449.ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 2 SD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/7450.ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 3 SD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/7451.ts
+#EXTINF:-1,NL: FOX SPORTS 1 HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/11677.ts
+#EXTINF:-1,NL: FOX SPORTS 2 HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/11676.ts
+#EXTINF:-1,NL: FOX SPORTS 3 HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/11675.ts
+#EXTINF:-1,NL: FOX SPORTS 4 HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/11674.ts
+#EXTINF:-1,NL: FOX SPORTS 5 HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/11673.ts
+#EXTINF:-1,NL: FOX SPORTS 6 HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/11672.ts
+#EXTINF:-1,NL: Ziggo Sport Select HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/11291.ts
+#EXTINF:-1,NL: Ziggo Sport Voetbal HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/11313.ts
+#EXTINF:-1,NL: Ziggo Sport Racing HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/11678.ts
+#EXTINF:-1,NL: Ziggo Sport Select
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/8967.ts
+#EXTINF:-1,NL: Ziggo Sport Voetbal
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/8966.ts
+#EXTINF:-1,NL: Ziggo Sport Extra 1
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/2294.ts
+#EXTINF:-1,NL: Ziggo Sport Extra 2
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/2293.ts
+#EXTINF:-1,NL: Ziggo Sport Golf
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/8964.ts
+#EXTINF:-1,NL: Ziggo Sport Racing
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/8965.ts
+#EXTINF:-1,PL: nSport
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/13030.ts
+#EXTINF:-1,PL: nSport  HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/13028.ts
+#EXTINF:-1,PL: TVP Sport HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/11382.ts
+#EXTINF:-1,PL: Canal+ Sport HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/9508.ts
+#EXTINF:-1,PL: Canal+ Sport 2 HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/11411.ts
+#EXTINF:-1,PL: Eleven Sports 1 HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/11600.ts
+#EXTINF:-1,PL: Eleven Sports 2 HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/11601.ts
+#EXTINF:-1,PL: Eleven Sports 3 HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/11602.ts
+#EXTINF:-1,PL: Eleven Sports 4 HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/10066.ts
+#EXTINF:-1,PL: Eleven Sports 4
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/13035.ts
+#EXTINF:-1,PL: Eurosport 1 HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/13034.ts
+#EXTINF:-1,PL: Eurosport 2 HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/13060.ts
+#EXTINF:-1,PL: Eurosport 4 HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/13351.ts
+#EXTINF:-1,PL: Polsat Sport
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/13053.ts
+#EXTINF:-1,PL: Polsat Sport HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/13052.ts
+#EXTINF:-1,PL: Polsat Sport Fight SD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/13051.ts
+#EXTINF:-1,PL: Polsat Sport FIGHT HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/11404.ts
+#EXTINF:-1,PL: Polsat Sport News
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/13077.ts
+#EXTINF:-1,PL: Polsat Sport EXTRA HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/11410.ts
+#EXTINF:-1,PL: Extreme Sports
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/8142.ts
+#EXTINF:-1,PL: Extreme Sports HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/11449.ts
+#EXTINF:-1,IT: Sky Sport 24 HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/3501.ts
+#EXTINF:-1,IT: Sky Sport 1 HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/1107.ts
+#EXTINF:-1,IT: Sky Sport 2 HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/1111.ts
+#EXTINF:-1,IT: Sky Sport 3 HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/3955.ts
+#EXTINF:-1,IT: Sky Sport Moto GP HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/8271.ts
+#EXTINF:-1,IT: Sky Sport F1 HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/1693.ts
+#EXTINF:-1,IT: Sky Supercalcio HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/2039.ts
+#EXTINF:-1,IT: Sky Calcio 1
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/2037.ts
+#EXTINF:-1,IT: Sky Calcio 2
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/2038.ts
+#EXTINF:-1,IT: Sky Calcio 1 HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/6383.ts
+#EXTINF:-1,IT: Sky Calcio 2 HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/6382.ts
+#EXTINF:-1,IT: Sky Calcio 3 HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/3458.ts
+#EXTINF:-1,IT: Sky Calcio 4 HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/3459.ts
+#EXTINF:-1,IT: Sky Calcio 5 HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/3460.ts
+#EXTINF:-1,IT: Sky Calcio 6 HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/3461.ts
+#EXTINF:-1,IT: Premium Sport 1 HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/1757.ts
+#EXTINF:-1,IT: Premium Sport 2 HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/2122.ts
+#EXTINF:-1,IT: Juventus Channel
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/4114.ts
+#EXTINF:-1,IT: Milan Channel
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/3959.ts
+#EXTINF:-1,IT: INTER CHANNEL
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/3418.ts
+#EXTINF:-1,IT: ROMA CHANNEL
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/3419.ts
+#EXTINF:-1,IT: Rai Sport + HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/1038.ts
+#EXTINF:-1,IT: Rai Sport 2 HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/1039.ts
+#EXTINF:-1,IT: Rai Sport 2
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/2014.ts
+#EXTINF:-1,IT: Fox Sport HD Italia
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/3954.ts
+#EXTINF:-1,IT: Super Tennis HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/2032.ts
+#EXTINF:-1,IT: Eurosport 1 HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/3956.ts
+#EXTINF:-1,IT: Eurosport 2 HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/3957.ts
+#EXTINF:-1,IT: Sport Italia
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/2020.ts
+#EXTINF:-1,IT: Rai 1 HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/1034.ts
+#EXTINF:-1,IT: RAI 2 HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/1035.ts
+#EXTINF:-1,IT: RAI 3 HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/1036.ts
+#EXTINF:-1,IT: Rai 4 HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/1651.ts
+#EXTINF:-1,IT: Rai 5 HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/3535.ts
+#EXTINF:-1,IT: Rai 1
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/3532.ts
+#EXTINF:-1,IT: Rai 2
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/3533.ts
+#EXTINF:-1,IT: Rai 3
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/3534.ts
+#EXTINF:-1,IT: Rai 4
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/2012.ts
+#EXTINF:-1,IT: Rai 5
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/2013.ts
+#EXTINF:-1,IT: Rai Premium
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/2015.ts
+#EXTINF:-1,IT: Rai Movie
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/1652.ts
+#EXTINF:-1,IT: Rai Storia
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/9538.ts
+#EXTINF:-1,IT: Rai Scuola
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/3415.ts
+#EXTINF:-1,IT: Rai Nettuno
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/4625.ts
+#EXTINF:-1,IT: Italia 1 HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/3413.ts
+#EXTINF:-1,IT: Italia 1
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/3538.ts
+#EXTINF:-1,IT: Italia 2 HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/3432.ts
+#EXTINF:-1,IT: CANALE 5 HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/2011.ts
+#EXTINF:-1,IT: Canale 5
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/3536.ts
+#EXTINF:-1,IT: Rete 4 HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/2526.ts
+#EXTINF:-1,IT: Rete 4
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/3537.ts
+#EXTINF:-1,IT: Mediaset Extra
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/3431.ts
+#EXTINF:-1,IT: IRIS
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/2025.ts
+#EXTINF:-1,IT: Cielo
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/2024.ts
+#EXTINF:-1,IT: LA5
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/3430.ts
+#EXTINF:-1,IT: Quarta Rete TV
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/3443.ts
+#EXTINF:-1,IT: Canale 8
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/3621.ts
+#EXTINF:-1,IT: La 7 HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/3421.ts
+#EXTINF:-1,IT: LA 7D
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/2021.ts
+#EXTINF:-1,>>>>>Cartoni<<<<<
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/3895.ts
+#EXTINF:-1,IT: Rai Gulp
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/2016.ts
+#EXTINF:-1,IT: Rai Yoyo
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/3414.ts
+#EXTINF:-1,IT: Boing
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/3427.ts
+#EXTINF:-1,IT: K2
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/2027.ts
+#EXTINF:-1,IT: Cartoonito
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/3439.ts
+#EXTINF:-1,IT: Frisbee
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/3425.ts
+#EXTINF:-1,IT: Super!
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/2026.ts
+#EXTINF:-1,IT: MAN-GA
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/3429.ts
+#EXTINF:-1,IT: Disney XD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/3437.ts
+#EXTINF:-1,IT: Disney Junior
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/8274.ts
+#EXTINF:-1,IT: Disney Channel HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/3438.ts
+#EXTINF:-1,IT: Cartoon Network
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/2028.ts
+#EXTINF:-1,IT: Masha e Orso Channel
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/8128.ts
+#EXTINF:-1,IT: Masha and Bear
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/3622.ts
+#EXTINF:-1,IT: Premium Cartoon Network
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/2068.ts
+#EXTINF:-1,>>>>>Sky Cinema<<<<<
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/4219.ts
+#EXTINF:-1,IT: Sky Cinema 3D
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/3624.ts
+#EXTINF:-1,IT: Sky Cinema 1
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/1066.ts
+#EXTINF:-1,IT: Sky Cinema 1 +24 HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/8598.ts
+#EXTINF:-1,IT: Sky Cinema Hits HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/8597.ts
+#EXTINF:-1,IT: Sky Cinema Family HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/2041.ts
+#EXTINF:-1,IT: Sky Cinema Comedy HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/2045.ts
+#EXTINF:-1,IT: Sky Cinema Max HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/1063.ts
+#EXTINF:-1,IT: Sky Cinema Passion HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/3410.ts
+#EXTINF:-1,IT: Sky Cinema Cult HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/3444.ts
+#EXTINF:-1,IT: Sky Cinema Classic HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/3433.ts
+#EXTINF:-1,IT: Sky Atlantic HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/2046.ts
+#EXTINF:-1,IT: Sky Atlantic +1
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/11841.ts
+#EXTINF:-1,IT: Sky Uno HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/3446.ts
+#EXTINF:-1,IT: Fox HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/2051.ts
+#EXTINF:-1,IT: Fox Life HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/3617.ts
+#EXTINF:-1,IT: FOX CRIME HD ITA
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/3616.ts
+#EXTINF:-1,IT: FOX ANIMATION
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/3441.ts
+#EXTINF:-1,IT: Fox Comedy HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/3447.ts
+#EXTINF:-1,IT: AXN HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/3614.ts
+#EXTINF:-1,IT: Paramount Channel Ita HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/3619.ts
+#EXTINF:-1,>>>>>Premium Cinema<<<<<
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/4220.ts
+#EXTINF:-1,IT: Premium Cinema 1 HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/3613.ts
+#EXTINF:-1,IT: Premium Cinema HD (ENG)
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/1022.ts
+#EXTINF:-1,IT: Premium Cinema
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/1019.ts
+#EXTINF:-1,IT: Premium Cinema 24 HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/2129.ts
+#EXTINF:-1,IT: Premium Cinema 24
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/1020.ts
+#EXTINF:-1,IT: Premium Cinema 2 HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/1021.ts
+#EXTINF:-1,IT: Premium Cinema 2 24 HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/2130.ts
+#EXTINF:-1,IT: Premium Action HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/1017.ts
+#EXTINF:-1,IT: Premium Action +24 HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/2132.ts
+#EXTINF:-1,IT: Premium Comedy HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/2128.ts
+#EXTINF:-1,IT: Premium Comedy
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/1023.ts
+#EXTINF:-1,IT: Premium Energy HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/2124.ts
+#EXTINF:-1,IT: Premium Energy +1
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/1026.ts
+#EXTINF:-1,IT: Premium Emotion HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/2125.ts
+#EXTINF:-1,IT: Premium Emotion
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/1025.ts
+#EXTINF:-1,IT: Premium Joy HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/2123.ts
+#EXTINF:-1,IT: Premium Joy
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/1027.ts
+#EXTINF:-1,IT: Premium Joy +24
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/2067.ts
+#EXTINF:-1,IT: Premium Stories
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/1650.ts
+#EXTINF:-1,IT: TOP Crime Mediaset
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/3416.ts
+#EXTINF:-1,IT: Premium Crime HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/2069.ts
+#EXTINF:-1,IT: Premium Crime 24 HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/2127.ts
+#EXTINF:-1,IT: Premium Crime 24
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/2070.ts
+#EXTINF:-1,IT: Premium Crime +24
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/1024.ts
+#EXTINF:-1,IT: Premium Studio Universal
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/3417.ts
+#EXTINF:-1,IT: Giallo
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/3422.ts
+#EXTINF:-1,IT: Aldo Giovanni e Giacomo-Ammutta Muddica
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/6294.ts
+#EXTINF:-1,IT: HERCULES 1
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/6301.ts
+#EXTINF:-1,IT: HERCULES 2
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/6302.ts
+#EXTINF:-1,IT: HERCULES 3
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/6303.ts
+#EXTINF:-1,IT: Real Time
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/2018.ts
+#EXTINF:-1,IT: Real Time +1
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/3965.ts
+#EXTINF:-1,IT: Premium Discovery HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/2126.ts
+#EXTINF:-1,IT: Discovery Channel HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/1018.ts
+#EXTINF:-1,IT: Discovery Science HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/2134.ts
+#EXTINF:-1,IT: Discovery Travel & Living HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/2058.ts
+#EXTINF:-1,IT: National Geographic HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/2061.ts
+#EXTINF:-1,IT: Nat Geo People HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/3442.ts
+#EXTINF:-1,IT: Nat Geo Wild HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/2060.ts
+#EXTINF:-1,IT: Discovery Focus
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/2023.ts
+#EXTINF:-1,IT: History Channel
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/2063.ts
+#EXTINF:-1,IT: AutoMoto TV
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/9539.ts
+#EXTINF:-1,IT: Fishing Tv italiano
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/3967.ts
+#EXTINF:-1,IT: Animal Planet HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/3428.ts
+#EXTINF:-1,IT: Dmax HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/2019.ts
+#EXTINF:-1,IT: Dmax
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/3424.ts
+#EXTINF:-1,IT: Dmax  1
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/3423.ts
+#EXTINF:-1,IT: QVC Italia
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/9537.ts
+#EXTINF:-1,IT: Gambero Rosso
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/3448.ts
+#EXTINF:-1,IT: Alice
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/3440.ts
+#EXTINF:-1,>>>>>Notizie<<<<<
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/4226.ts
+#EXTINF:-1,IT: Rai News 24
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/3969.ts
+#EXTINF:-1,IT: Sky TG 24
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/3968.ts
+#EXTINF:-1,IT: SkyTG24
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/4214.ts
+#EXTINF:-1,IT: TG Norba 24
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/4157.ts
+#EXTINF:-1,IT: TG Com 24 Premium
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/3970.ts
+#EXTINF:-1,IT: Euronews Italiano
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/3971.ts
+#EXTINF:-1,XX: KS XX TV 1 HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/9286.ts
+#EXTINF:-1,XX: KS XX TV 2 HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/9288.ts
+#EXTINF:-1,XX: KS XX TV 3 HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/9299.ts
+#EXTINF:-1,XX: Adult 4K: VOD1
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/5177.ts
+#EXTINF:-1,XX: Adult 4K: VOD2
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/5180.ts
+#EXTINF:-1,XX: Adult 4K: VOD3
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/5181.ts
+#EXTINF:-1,XX: Adult 4K: VOD4
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/5182.ts
+#EXTINF:-1,XX: Adult 4K: VOD5
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/5183.ts
+#EXTINF:-1,XX: Adult 4K: VOD6
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/5184.ts
+#EXTINF:-1,XX: Adult 4K: VOD7
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/5185.ts
+#EXTINF:-1,XX: Adult 4K: VOD8
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/5186.ts
+#EXTINF:-1,XX: Adult 4K: VOD9
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/5187.ts
+#EXTINF:-1,XX: Adult 4K: VOD10
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/5178.ts
+#EXTINF:-1,XX: Adult 4K: VOD11
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/5179.ts
+#EXTINF:-1,XX: PRIVATE HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/5229.ts
+#EXTINF:-1,XX: ADULT HOTCLUB 1 HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/5230.ts
+#EXTINF:-1,XX: ADULT HOTCLUB 2 HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/5231.ts
+#EXTINF:-1,XX: ADULT HOTCLUB 3 HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/5232.ts
+#EXTINF:-1,XX: ADULT HOTCLUB 4 HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/5233.ts
+#EXTINF:-1,XX: ADULT HOTCLUB 5 HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/5234.ts
+#EXTINF:-1,XX: ADULT HOTCLUB 6 HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/5235.ts
+#EXTINF:-1,XX: ADULT HOTCLUB 7 HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/5236.ts
+#EXTINF:-1,xtreme
+http://painel.iptvmove.com:25461/live/12341234/12341234/1258.ts
+#EXTINF:-1,xy Hot
+http://painel.iptvmove.com:25461/live/12341234/12341234/1257.ts
+#EXTINF:-1,Venus
+http://painel.iptvmove.com:25461/live/12341234/12341234/2649.ts
+#EXTINF:-1,|XL| ADULTES 1
+http://panel.dtdns.net:8000/live/shadow/shadow/106.ts
+#EXTINF:-1,|XL| ADULTES 2
+http://panel.dtdns.net:8000/live/shadow/shadow/107.ts
+#EXTINF:-1,|XL| ADULTES 3
+http://panel.dtdns.net:8000/live/shadow/shadow/108.ts
+#EXTINF:-1,|XL| ADULTES 4
+http://panel.dtdns.net:8000/live/shadow/shadow/109.ts
+#EXTINF:-1,|XL| ADULTES 5
+http://panel.dtdns.net:8000/live/shadow/shadow/110.ts
+#EXTINF:-1,|XL| ADULTES 6
+http://panel.dtdns.net:8000/live/shadow/shadow/111.ts
+#EXTINF:-1,|XL| ADULTES 7
+http://panel.dtdns.net:8000/live/shadow/shadow/112.ts
+#EXTINF:-1,|XL| ADULTES 8
+http://panel.dtdns.net:8000/live/shadow/shadow/113.ts
+#EXTINF:-1,|XL| ADULTES 9
+http://panel.dtdns.net:8000/live/shadow/shadow/114.ts
+#EXTINF:-1,|XL| ADULTES 10
+http://panel.dtdns.net:8000/live/shadow/shadow/116.ts
+#EXTINF:-1,|XL| ADULTES 11
+http://panel.dtdns.net:8000/live/shadow/shadow/599.ts
+#EXTINF:-1,|XL| ADULTES 12
+http://panel.dtdns.net:8000/live/shadow/shadow/600.ts
+#EXTINF:-1,|XL| ADULTES 13
+http://panel.dtdns.net:8000/live/shadow/shadow/601.ts
+#EXTINF:-1,|XL| ADULTES 14
+http://panel.dtdns.net:8000/live/shadow/shadow/602.ts
+#EXTINF:-1,|XL| ADULTES 15
+http://panel.dtdns.net:8000/live/shadow/shadow/603.ts
+#EXTINF:-1,|XL| ADULTES 16
+http://panel.dtdns.net:8000/live/shadow/shadow/604.ts
+#EXTINF:-1,|XL| ADULTES 17
+http://panel.dtdns.net:8000/live/shadow/shadow/605.ts
+#EXTINF:-1,|XL| ADULTES 18
+http://panel.dtdns.net:8000/live/shadow/shadow/606.ts
+#EXTINF:-1,|XL| ADULTES 19
+http://panel.dtdns.net:8000/live/shadow/shadow/607.ts
+#EXTINF:-1,|XL| ADULTES 20
+http://panel.dtdns.net:8000/live/shadow/shadow/608.ts
 
-http://mlsh.co:2086/get.php?username=lauren&password=lauren&type=m3u
 
-http://bbiptv.net:8000/get.php?username=maile&password=maile&type=m3u
-
-http://bbiptv.net:8000/get.php?username=marian&password=marian&type=m3u
-
-http://142.44.214.153:58000/get.php?username=jesus17&password=martinez&type=m3u
-
-http://178.132.7.100:15000/get.php?username=sheuznbb&password=24xt03fvHX&type=m3u
-
-http://mirasat.info:8000/get.php?username=adel&password=adel&type=m3u
-
-http://mirasat.info:8000/get.php?username=atef&password=atef&type=m3u
-
-http://mirasat.info:8000/get.php?username=nashwan&password=nashwan&type=m3u
-
-http://178.32.6.96:8080/get.php?username=firat1&password=firat1234&type=m3u
-
-http://wohuogai.com:58000/get.php?username=ecua_playTVsd-hd&password=abuahmad&type=m3u
-
-http://wohuogai.com:58000/get.php?username=bala_mubashar&password=56thGFFFDRGJ&type=m3u
-
-http://mirasat.info:8000/get.php?username=saed&password=saed&type=m3u
-
-http://ecuaplaytv.com:8000/get.php?username=1234&password=1234&type=m3u
-
-http://mlsh.co:2086/get.php?username=claire1&password=claire1&type=m3u
-
-http://mlsh.co:2086/get.php?username=Ali1&password=Ali1&type=m3u
-
-http://mlsh.co:2086/get.php?username=ADT&password=ADT&type=m3u
-
-http://bbiptv.net:8000/get.php?username=Michael&password=Michael&type=m3u
-
-http://92.223.103.92:8080/get.php?username=arsen&password=eduardi&type=m3u
-
-http://cdnfeed.ddns.net:80/get.php?username=philmalqrm&password=jM7kdb5fgD&type=m3u
-
-http://94.46.245.190:8000/playlist.m3u8
-
-http://98.109.150.239:8001/playlist.m3u8
-
-http://90.75.191.32:8000/playlist.m3u8
-
-http://37.14.218.224:9981/playlist
-
-http://89.252.203.170:8013/playlist.m3u8
-
-http://183.97.110.176:9981/playlist
- 
